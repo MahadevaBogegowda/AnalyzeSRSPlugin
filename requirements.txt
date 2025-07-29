@@ -2,4 +2,4 @@ fastapi
 uvicorn
 openai
 docx2txt
-textract
+textract==1.6.5
