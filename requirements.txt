@@ -4,3 +4,4 @@ openai
 docx2txt
 pymupdf
 openpyxl
+python-multipart
