@@ -2,4 +2,5 @@ fastapi
 uvicorn
 openai
 docx2txt
-textract==1.6.5
+pymupdf
+openpyxl
