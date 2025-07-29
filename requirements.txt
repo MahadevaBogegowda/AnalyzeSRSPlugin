@@ -1,7 +1,5 @@
 fastapi
 uvicorn
+python-docx
 openai
-docx2txt
-pymupdf
-openpyxl
 python-multipart
